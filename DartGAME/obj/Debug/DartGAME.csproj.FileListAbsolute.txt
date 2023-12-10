@@ -1,0 +1,7 @@
+C:\Users\HARUN\source\repos\DartGAME\bin\Debug\DartGAME.exe.config
+C:\Users\HARUN\source\repos\DartGAME\bin\Debug\DartGAME.exe
+C:\Users\HARUN\source\repos\DartGAME\bin\Debug\DartGAME.pdb
+C:\Users\HARUN\source\repos\DartGAME\obj\Debug\DartGAME.csproj.AssemblyReference.cache
+C:\Users\HARUN\source\repos\DartGAME\obj\Debug\DartGAME.csproj.CoreCompileInputs.cache
+C:\Users\HARUN\source\repos\DartGAME\obj\Debug\DartGAME.exe
+C:\Users\HARUN\source\repos\DartGAME\obj\Debug\DartGAME.pdb
